@@ -21,11 +21,10 @@
 title: Growing Narrative Computation 
 email: brook.miller@ucf.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Recording a journey through narrative and artificial intelligence. Building a new theory or narrativity,
-  learning machine learning, natural language processing, and data science,
-  becoming an experienced full-stack developer, making scholarly 
-  contributions to the growing field of narrative AI, and developing 
-  usable models of computational narrative cognition.
+  lessons from work in narrative, artificial intelligence, and software development. narrativity,
+  machine learning, natural language processing, data science,
+  python, linux, full-stack applications, writing scholarly research,narrative AI, and
+  models of computational narrative cognition.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "millerbrook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  millerbrook
