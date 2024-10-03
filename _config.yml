@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Growing Narrative Computation 
+title: Narrative, Computation, and Applications Development 
 email: brook.miller@ucf.edu
 description: >- # this means to ignore newlines until "baseurl:"
   lessons from work in narrative, artificial intelligence, and software development. narrativity,
   machine learning, natural language processing, data science,
-  python, linux, full-stack applications, writing scholarly research,narrative AI, and
+  python, linux, full-stack applications, writing scholarly research, narrative AI, and
   models of computational narrative cognition.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "millerbrook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
